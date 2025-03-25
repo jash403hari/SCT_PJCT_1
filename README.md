@@ -1,4 +1,4 @@
-# SCT_PJCT_1
+# SCT_CS_1
 # === CAESAR CIPHER PROGRAM ===
 # This program encrypts and decrypts messages using the Caesar cipher technique.
 
